@@ -1,5 +1,5 @@
 {
-  "name": "react-native-marquee-text",
+  "name": "react-native-simple-marquee",
   "version": "1.0.0",
   "description": "React Native Marquee Text Component",
   "main": "src/index.tsx",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superleek/react-native-marquee-text.git"
+    "url": "git+https://github.com/superleek/react-native-simple-marquee.git"
   },
   "keywords": [
     "react-native",
@@ -24,12 +24,12 @@
     "ios",
     "android"
   ],
-  "author": "SuperLeeK <ljzero5@gmail.com>",
+  "author": "superleek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/superleek/react-native-marquee-text/issues"
+    "url": "https://github.com/superleek/react-native-simple-marquee/issues"
   },
-  "homepage": "https://github.com/superleek/react-native-marquee-text#readme",
+  "homepage": "https://github.com/superleek/react-native-simple-marquee#readme",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
