@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-marquee",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native Marquee Text Component",
   "main": "src/index.tsx",
   "directories": {
