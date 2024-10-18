@@ -1,0 +1,55 @@
+{
+  "name": "react-native-marquee-text",
+  "version": "1.0.0",
+  "description": "React Native Marquee Text Component",
+  "main": "src/index.tsx",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-check": "tsc -p tsconfig.json",
+    "eslint-check": "eslint --ext .js,.jsx,.ts,.tsx .",
+    "release": "release-it",
+    "start": "rm -rf Develop/dist && tsc -w --outDir Develop/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superleek/react-native-marquee-text.git"
+  },
+  "keywords": [
+    "react-native",
+    "marquee",
+    "marquee-text",
+    "ios",
+    "android"
+  ],
+  "author": "SuperLeeK <ljzero5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superleek/react-native-marquee-text/issues"
+  },
+  "homepage": "https://github.com/superleek/react-native-marquee-text#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@tsconfig/react-native": "^2.0.3",
+    "@types/react": "^18.0.24",
+    "@types/react-native": "^0.71.3",
+    "eslint": "^8.34.0",
+    "husky": "8.0.3",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4",
+    "release-it": "^15.6.0",
+    "typescript": "4.8.4"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "react-native-reanimated": "^3.16.0"
+  }
+}
