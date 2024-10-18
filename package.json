@@ -50,6 +50,6 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "react-native-reanimated": "^3.16.0"
+    "react-native-reanimated": "^3.11.0"
   }
 }
